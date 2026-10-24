@@ -3,9 +3,6 @@
 # 💬 WhatsApp Chat Analyzer
 ### *Turning Conversations into Insights with Microsoft Excel*
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
 
 > *"What if your WhatsApp chats could tell you who matters most?"*
 
@@ -312,9 +309,6 @@ Per-contact monthly breakdown — Jan to May with Started By / Ended By analysis
 **Muhammad Uzair Hussain**
 
 BSCS Student — FAST NUCES CFD Campus
-
-[![GitHub](https://img.shields.io/badge/GitHub-uzair146-181717?style=for-the-badge&logo=github)](https://github.com/uzair146)
-[![Email](https://img.shields.io/badge/Email-muzairhussain03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzairhussain03@gmail.com)
 
 ---
 

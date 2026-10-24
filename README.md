@@ -309,10 +309,9 @@ Per-contact monthly breakdown — Jan to May with Started By / Ended By analysis
 
 <div align="center">
 
-**Muhammad Uzair**
+**Muhammad Uzair Hussain**
 
-BSCS Student — FAST NUCES CFD Campus, Faisalabad
-Batch 2028
+BSCS Student — FAST NUCES CFD Campus
 
 [![GitHub](https://img.shields.io/badge/GitHub-uzair146-181717?style=for-the-badge&logo=github)](https://github.com/uzair146)
 [![Email](https://img.shields.io/badge/Email-muzairhussain03@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muzairhussain03@gmail.com)
